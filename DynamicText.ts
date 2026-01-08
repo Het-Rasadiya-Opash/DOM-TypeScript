@@ -1,5 +1,6 @@
-export {};
+// export {};
 
+//generic typed in DOM
 const usernameInput = document.querySelector<HTMLInputElement>(".username");
 const btn = document.querySelector<HTMLButtonElement>(".btn");
 const info = document.querySelector<HTMLDivElement>(".info");
